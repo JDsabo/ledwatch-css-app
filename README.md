@@ -1,4 +1,4 @@
-![image](https://github.com/JDsabo/ledwatch-css-page/assets/82731778/61c0f4a1-c410-4153-9921-156de0a15c0d)<h1>LED Watch created by Sabo</h1>
+<h1>LED Watch created by Sabo</h1>
 Small web app with customized CSS and basic JS logic, feel free to edit an re-create. Cybernetic and Neon aesthetic for enchanced UI.
 <br>
 <br>
