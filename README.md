@@ -2,7 +2,7 @@
 Small web app with customized CSS and basic JS logic, feel free to edit an re-create. Cybernetic and Neon aesthetic for enchanced UI.
 <br>
 <br>
-Live App: https://ledwatch-css-page.vercel.app/
+Live App: https://ledwatch-css-page.vercel.app
 <br>
 <br>
 
